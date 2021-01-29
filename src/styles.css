@@ -1,0 +1,37 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #CDE4F5;
+}
+.color-nav {
+  background-color: #f3f9fe;
+}
+.inActive {
+  color: #003d6b !important;
+  letter-spacing: 40;
+  font-size: 1rem;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration: none;
+}
+.inActive:hover{
+  color: rgb(128, 120, 120) !important;
+}
+.active {
+  color: #003d6b !important;
+  font-weight: 700;
+}
+
+.contact-button{
+  background-color:#003d6b !important;
+  font-weight: 700;
+  border-radius: 2.063rem !important;
+  border-color:inherit !important;
+  width: 160;
+}
+.contact-button:hover{
+  background-color: dodgerblue !important;
+}
+.nav-content{
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}

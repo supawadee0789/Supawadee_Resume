@@ -1,0 +1,43 @@
+.card{
+    height: 25em;
+    width: 18em;
+    background-color: #FFFFFF;
+    border-radius: 2em;
+    border:none;
+    color:#003D6B;
+    display: inline-flex;
+    margin: 2.5em ;
+}
+.pic{
+    width: 7rem;
+    align-self: center;
+    margin-top: 20%;
+}
+.title{
+    margin-top: 10%;
+    margin-bottom: 0;
+    font-size: 25px;
+    font-weight: bold;
+}
+.content{
+    font-size: 1rem;
+    margin: 25px 10%;
+    
+}
+.language-container{
+    background-color: #F3F9FE;
+    border-radius: 2rem;
+    margin: auto;
+    padding: 2em 3em 0.3em 3em;
+    width: 88%;
+    align-self: center;
+
+}
+.table-lang{
+    color: #003D6B;
+    font: 1em sans-serif;
+}
+.table-lang td, .table-lang th , .table-lang thead th{
+    border-top: none;
+    border-bottom: none;
+}
