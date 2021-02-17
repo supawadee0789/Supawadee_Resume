@@ -1,5 +1,5 @@
 import React from 'react';
-import "./HomeStyle.css";
+import "./css/HomeStyle.css";
 import {Container, Row, Col } from 'reactstrap';
 import img from "../img/my_img.png";
 import { useMediaQuery } from 'react-responsive';

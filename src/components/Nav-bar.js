@@ -10,7 +10,7 @@ import Logo from '../img/Logo.svg';
 import { useMediaQuery } from 'react-responsive';
 import Hamburger from 'hamburger-react';
 import { push as Menu } from 'react-burger-menu'
-import './menu.css';
+import './css/menu.css';
 
 const Mobile = ({ children }) => {
     const isMobile = useMediaQuery({ maxWidth: 767 })

@@ -5,6 +5,7 @@ import Home from './components/Home';
 import About from './components/About';
 import Dott from './components/DottLine';
 import Skill from './components/Skill';
+import Education from './components/Education';
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <Dott/>
       <Skill/>
       <Dott/>
+      <Education/>
     </div>
   );
 }

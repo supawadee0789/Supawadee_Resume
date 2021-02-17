@@ -1,5 +1,5 @@
 import React from 'react';
-import "./SkillStyle.css";
+import "./css/SkillStyle.css";
 
 function Card(props){
     return(

@@ -1,5 +1,5 @@
 import React from 'react';
-import './AboutStyle.css';
+import './css/AboutStyle.css';
 import img from "../img/my_img.png";
 import { Row, Col } from 'reactstrap';
 import { useMediaQuery } from 'react-responsive';

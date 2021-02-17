@@ -14,6 +14,7 @@
     margin-top: 20%;
 }
 .title{
+    color:#003D6B;
     margin-top: 10%;
     margin-bottom: 0;
     font-size: 25px;
@@ -22,6 +23,7 @@
 .content{
     font-size: 1rem;
     margin: 25px 10%;
+    color:#003D6B;
     
 }
 .language-container{
@@ -40,4 +42,12 @@
 .table-lang td, .table-lang th , .table-lang thead th{
     border-top: none;
     border-bottom: none;
+}
+
+.Ed-history td{
+    font-size: 1rem;
+    color:#003D6B;
+    text-align: left;
+    padding: 20px;
+
 }
