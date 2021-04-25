@@ -46,6 +46,12 @@
     left: 25%;
     z-index: 0;
 }
+.head {
+    font-weight: bold;
+    color: #003D6B;
+    margin-bottom :10px;
+ 
+}
 @media (min-width: 992px){
     .container.container, .container-lg, .container-md, .container-sm {
         max-width: 100%;

@@ -25,7 +25,7 @@ function About(){
                     <div className="text-box">
                         <p style={{fontSize:'1.5rem',fontWeight:'bold',color:'#003D6B',textAlign:'left'}}>Personal Informations</p>
                         <p style={{color:'#003D6B',textAlign:'left'}}>MISS SUPAWADEE KHAMNUENGSITHI</p>
-                        <p className="info">Residential Address : 54/5 Moo 8 Suthep Mueng Chiang Mai, Thailand 50200 
+                        <p className="info">Residential Address : 18 Moo 9 Mueng Nga Mueng Lamphun, Thailand 51000 
                             <br/>Phone : 084 - 501 - 1875 
                             <br/>Email : supawadee.khamnuengsithi@gmail.com 
                             <br/>Date of Birth : 24 June 1998 

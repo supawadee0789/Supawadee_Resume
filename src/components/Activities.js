@@ -9,14 +9,24 @@ function Activities() {
   return (
     <div style={{ height: "75vh" }}>
       <h1 className="head">ACTIVITIES</h1>
-
+    <div
+       style={{
+        backgroundColor: "#F3F9FE",
+        width: "62em",
+        height: "28em",
+        marginInline: "auto",
+        marginTop: "5em",
+        flexDirection: "row",
+        display: "flex",
+      }}
+    >
       <div
         style={{
           backgroundColor: "#003D6B",
           width: "50em",
-          height: "28em",
+          height: "100%",
           marginInline: "auto",
-          marginTop: "5em",
+      
           flexDirection: "row",
           display: "flex",
         }}
@@ -35,6 +45,7 @@ function Activities() {
           <img src={img3} />
 
         </Carousel>
+      </div>
       </div>
     </div>
   );

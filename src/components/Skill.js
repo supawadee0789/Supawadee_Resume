@@ -4,11 +4,10 @@ import Pic1 from "../img/programming.svg";
 import Pic2 from "../img/design.svg";
 import Pic3 from "../img/other.svg";
 import { Table } from 'react-bootstrap';
-
 function Skill() {
   return (
     <div style={{ paddingInline:'10em' }}>
-      <h1 style={{ fontWeight: "bold", color: "#003D6B",marginBottom:'10px' }}>SKILLS</h1>
+      <h1 className='head'>SKILLS</h1>
       <Card
         name="Programming"
         url={Pic1}
@@ -53,10 +52,10 @@ function Skill() {
                 </tr>
                 <tr>
                     <th>JAPANESE (N5)</th>
-                    <td>45%</td>
-                    <td>50%</td>
                     <td>40%</td>
-                    <td>50%</td>
+                    <td>40%</td>
+                    <td>40%</td>
+                    <td>40%</td>
                 </tr>
                 
             </tbody>
