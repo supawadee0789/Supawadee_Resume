@@ -20,7 +20,7 @@ return(
           </tr>
           <tr>
             <td style={{paddingLeft:'20%' ,fontWeight:'bold'}}><p>2017 - 2021</p></td>
-            <td><p>Bachelor of Engineering - computer engineering ,<br/> University of Chiang Mai University, Chiang Mai Thailand<br/><br/>GPA : 3.29 (Second-class honors)</p></td>
+            <td><p>Bachelor of Engineering - computer engineering ,<br/> Chiang Mai University, Chiang Mai Thailand<br/><br/>GPA : 3.29 (Second-class honors)</p></td>
           </tr>
           <tr>
             <td style={{paddingLeft:'20%' ,fontWeight:'bold'}}><p >2015 - 2017</p></td>

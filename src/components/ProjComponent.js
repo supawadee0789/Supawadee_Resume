@@ -37,6 +37,7 @@ function ProjectComponent(props) {
             color: props.textColor,
             letterSpacing: 0.5,
             textAlign: "start",
+            fontWeight:"normal"
           }}
         >
           {props.projContent}
@@ -48,6 +49,8 @@ function ProjectComponent(props) {
             color: props.textColor,
             letterSpacing: 0.5,
             textAlign: "start",
+            fontWeight:"normal"
+
           }}
         >
           <span style={{ fontWeight: "bold", color: props.textColor,letterSpacing: 0.5, textAlign: "start",}}>

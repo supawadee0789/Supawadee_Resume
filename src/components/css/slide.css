@@ -1,0 +1,15 @@
+.slide-enter {
+  transform: translateX(0%);
+  opacity: 1;
+}
+.slide-enter-active {
+  transform: translateX(-10000%);
+  opacity: 1;
+  transition: transform 6000ms ease-in-out;
+  
+}
+.slide-enter-done{
+    opacity: 0;
+    pointer-events: none;
+    z-index: -10000;
+}
