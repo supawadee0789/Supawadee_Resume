@@ -1,4 +1,4 @@
-import React from "react";
+import React,{useEffect} from "react";
 
 import './styles.css';
 import NavBar from './components/Nav-bar';
@@ -12,8 +12,11 @@ import Projects from "./components/Project";
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 
-
 function App() {
+
+  useEffect(() => {
+    document.title = "Supawadee Resume";
+  }, []);
 
   return (
     <div className="App">
