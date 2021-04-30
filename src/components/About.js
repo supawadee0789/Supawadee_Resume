@@ -10,7 +10,7 @@ const Default = ({ children }) => {
   };
 function About(){
     return (
-        <div>
+        <div id="about">
             <Row className="about-container">
                 <Default>
                 <Col xs="6" sm="5">

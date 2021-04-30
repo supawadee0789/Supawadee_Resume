@@ -14,7 +14,7 @@ const Default = ({ children }) => {
 
 function Home(){
     return (
-        <div className="container" fluid={true} style={{padding:0}}>
+        <div id="home" className="container" fluid={true} style={{padding:0}}>
             <Default>
             <Row className="home-content" style={{padding:0,margin:0}}>
                 <Col xs="6">

@@ -23,13 +23,19 @@
 
 .contact-button{
   background-color:#003d6b !important;
-  font-weight: 700;
+  text-decoration: none !important;
+  color: white !important;
   border-radius: 2.063rem !important;
   border-color:inherit !important;
   width: 160;
+  cursor: pointer;
 }
 .contact-button:hover{
   background-color: dodgerblue !important;
+}
+.contact-button-active{
+  color: white !important;
+  text-decoration: none !important;
 }
 .nav-content{
   padding-left: 1rem !important;

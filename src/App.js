@@ -9,8 +9,8 @@ import Skill from './components/Skill';
 import Education from './components/Education';
 import Activities from './components/Activities';
 import Projects from "./components/Project";
-
-
+import Contact from './components/Contact';
+import Footer from './components/Footer';
 
 
 function App() {
@@ -28,8 +28,8 @@ function App() {
       <Activities/>
       <Dott/>
       <Projects />
-      
-      
+      <Contact/>
+      <Footer/>
       
        
        
