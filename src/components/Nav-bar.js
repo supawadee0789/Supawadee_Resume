@@ -45,26 +45,46 @@ const MyNavBar = () => {
             </Navbar.Brand>
 
             <Nav>
-              <Link to="home" spy={true} smooth={true} className="inActive" activeClassName="active" style={{marginInline:15 ,cursor:'pointer'}} >
+              <Link
+                to="home"
+                spy={true}
+                smooth={true}
+                className="inActive"
+                activeClassName="active"
+                style={{ marginInline: 15, cursor: "pointer" }}
+              >
                 HOME
               </Link>
-              
-              <Link to="about" spy={true} smooth={true} className="inActive" activeClassName="active" style={{marginInline:15 ,cursor:'pointer'}}>
+
+              <Link
+                to="about"
+                spy={true}
+                smooth={true}
+                className="inActive"
+                activeClassName="active"
+                style={{ marginInline: 15, cursor: "pointer" }}
+              >
                 ABOUT ME
               </Link>
-              <Link to="project" spy={true} smooth={true} className="inActive" activeClassName="active" style={{marginInline:15 ,cursor:'pointer'}}>
+              <Link
+                to="project"
+                spy={true}
+                smooth={true}
+                className="inActive"
+                activeClassName="active"
+                style={{ marginInline: 15, cursor: "pointer" }}
+              >
                 PROJECTS
               </Link>
-            <Link to="contact" spy={true} smooth={true}  className="contact-button"
-               >
-    
-              <Button
-                title="CONTACT"
-                className="contact-button"
-                activeClassName="contact-button-active"
-              >
-                CONTACT
-              </Button>  </Link>
+              <Link to="contact" spy={true} smooth={true}>
+                <Button
+                  title="CONTACT"
+                  className="contact-button"
+                  activeClassName="contact-button-active"
+                >
+                  CONTACT
+                </Button>{" "}
+              </Link>
             </Nav>
           </Navbar>
         </Default>
@@ -89,18 +109,37 @@ const MyNavBar = () => {
             </div>
 
             <Menu right onOpen={isOpen} width={"70%"} noOverlay>
-              <a id="home" className="bm-item-list" href="/">
-                Home
-              </a>
-              <a id="about" className="bm-item-list" href="/about">
-                About Me
-              </a>
-              <a id="project" className="bm-item-list" href="/about">
-                Project
-              </a>
-              <a id="contact" className="bm-item-list" href="/contact">
-                Contact
-              </a>
+              <Link
+                to="home"
+                spy={true}
+                smooth={true}
+                className="inActive"
+                style={{ marginInline: 15, cursor: "pointer" }}
+              >
+                HOME
+              </Link>
+
+              <Link
+                to="about"
+                spy={true}
+                smooth={true}
+                className="inActive"
+                style={{ marginInline: 15, cursor: "pointer" }}
+              >
+                ABOUT ME
+              </Link>
+              <Link
+                to="project"
+                spy={true}
+                smooth={true}
+                className="inActive"
+                style={{ marginInline: 15, cursor: "pointer" }}
+              >
+                PROJECTS
+              </Link>
+              <Link to="contact" spy={true} smooth={true}>
+                CONTACT
+              </Link>
             </Menu>
           </Navbar>
         </Mobile>

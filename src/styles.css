@@ -41,3 +41,11 @@
   padding-left: 1rem !important;
   padding-right: 1rem !important;
 }
+.activity-slide{
+  background-color: "#003D6B";
+  width: 50em;
+  height: 100%;
+  margin: auto 0;
+  flex-direction: row;
+  display: flex;
+}
