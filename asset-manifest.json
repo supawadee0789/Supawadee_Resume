@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Supawadee_Resume/static/css/main.37125035.chunk.css",
+    "main.js": "/Supawadee_Resume/static/js/main.adb6e467.chunk.js",
+    "main.js.map": "/Supawadee_Resume/static/js/main.adb6e467.chunk.js.map",
+    "runtime-main.js": "/Supawadee_Resume/static/js/runtime-main.c1231af3.js",
+    "runtime-main.js.map": "/Supawadee_Resume/static/js/runtime-main.c1231af3.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/Supawadee_Resume/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.a9fbf687.chunk.js": "/Supawadee_Resume/static/js/2.a9fbf687.chunk.js",
+    "static/js/2.a9fbf687.chunk.js.map": "/Supawadee_Resume/static/js/2.a9fbf687.chunk.js.map",
+    "index.html": "/Supawadee_Resume/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/Supawadee_Resume/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.37125035.chunk.css.map": "/Supawadee_Resume/static/css/main.37125035.chunk.css.map",
+    "static/js/2.a9fbf687.chunk.js.LICENSE.txt": "/Supawadee_Resume/static/js/2.a9fbf687.chunk.js.LICENSE.txt",
+    "static/media/Logo.99c412c9.svg": "/Supawadee_Resume/static/media/Logo.99c412c9.svg",
+    "static/media/act1.942c7e8e.jpg": "/Supawadee_Resume/static/media/act1.942c7e8e.jpg",
+    "static/media/act2.6a9e9ff2.jpg": "/Supawadee_Resume/static/media/act2.6a9e9ff2.jpg",
+    "static/media/act3.647ceb0a.jpg": "/Supawadee_Resume/static/media/act3.647ceb0a.jpg",
+    "static/media/act4.d499182b.jpg": "/Supawadee_Resume/static/media/act4.d499182b.jpg",
+    "static/media/act6.4b01e161.jpg": "/Supawadee_Resume/static/media/act6.4b01e161.jpg",
+    "static/media/browser.1df48047.svg": "/Supawadee_Resume/static/media/browser.1df48047.svg",
+    "static/media/design.fd78498b.svg": "/Supawadee_Resume/static/media/design.fd78498b.svg",
+    "static/media/good-wallet.62bad54d.png": "/Supawadee_Resume/static/media/good-wallet.62bad54d.png",
+    "static/media/layers.d2ae9c1f.svg": "/Supawadee_Resume/static/media/layers.d2ae9c1f.svg",
+    "static/media/mtm.92976dbf.png": "/Supawadee_Resume/static/media/mtm.92976dbf.png",
+    "static/media/my_img.6407a2e9.png": "/Supawadee_Resume/static/media/my_img.6407a2e9.png",
+    "static/media/other.31c6ff2a.svg": "/Supawadee_Resume/static/media/other.31c6ff2a.svg",
+    "static/media/programming.5570035f.svg": "/Supawadee_Resume/static/media/programming.5570035f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1231af3.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.a9fbf687.chunk.js",
+    "static/css/main.37125035.chunk.css",
+    "static/js/main.adb6e467.chunk.js"
+  ]
+}
