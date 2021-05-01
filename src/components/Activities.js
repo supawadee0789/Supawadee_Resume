@@ -56,9 +56,11 @@ function Activities() {
           style={{
             backgroundColor: "#F3F9FE",
             width: "80%",
-            marginInline: "auto",
             marginTop: "5em",
-       
+            marginInline:'auto',
+            display:'flex',
+            flexDirection:'row',
+            justifySelf:'center'
           }}
         >
           <Carousel>

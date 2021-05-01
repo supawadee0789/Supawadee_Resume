@@ -6,7 +6,7 @@ import Pic3 from "../img/other.svg";
 import { Table } from 'react-bootstrap';
 function Skill() {
   return (
-    <div style={{ paddingInline:'10em' }}>
+    <div id='skill' style={{ paddingInline:'10em' }}>
       <h1 className='head'>SKILLS</h1>
       <Card
         name="Programming"

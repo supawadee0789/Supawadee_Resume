@@ -83,7 +83,7 @@ function ProjectComponent(props) {
               textAlign: "start",
             }}
           >
-            See on github repositories :{" "}
+            See on github :{" "}
             <a
               href={props.github}
               style={{ fontWeight: "normal", color: props.textColor }}
@@ -141,7 +141,7 @@ function ProjectComponent(props) {
               textAlign: "center",
             }}
           >
-            See on github repositories :{" "}
+            See on github :{" "}
             <a
               href={props.github}
               style={{ fontWeight: "normal", color: props.textColor }}
