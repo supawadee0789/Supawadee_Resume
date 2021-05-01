@@ -16,7 +16,7 @@ const Default = ({ children }) => {
 };
 function Activities() {
   return (
-    <div style={{ height: "75vh" }}>
+    <div style={{ height: "75vh",display:'flex',flexDirection:'column',alignItems:'center' }}>
       <h1 className="head">ACTIVITIES</h1>
       <Default>
         <div
